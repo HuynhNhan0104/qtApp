@@ -21,7 +21,11 @@ cd qtApp
 chmod +x ./bin/appsmartpole_screen 
 ./bin/appsmartpole_screen ./config.json
 ```
-
+to test multiple run (in this case 10):
+```bash
+chmod +x ./run.sh 
+./run.sh 10
+```
 
 
 
