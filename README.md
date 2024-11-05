@@ -17,6 +17,7 @@
 ```
 ## Guild to run app
 ```bash
+cd qtApp
 chmod +x ./bin/appsmartpole_screen 
 ./bin/appsmartpole_screen ./config.json
 ```
