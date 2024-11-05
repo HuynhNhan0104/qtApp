@@ -1,8 +1,3 @@
-## Shell Script
-
-Dưới đây là một ví dụ về shell script dùng để chạy một ứng dụng `n` lần song song:
-
-```bash
 #!/bin/bash
 
 # Kiểm tra nếu tham số n đã được cung cấp
@@ -16,7 +11,7 @@ n=$1
 
 # Chạy ứng dụng n lần
 for ((i = 1; i <= n; i++)); do
-    echo "Chạy lần thứ $i..."
+    # echo "Chạy lần thứ $i..."
     ./bin/appsmartpole_screen ./config.json &  # Thay thế 'my_app' bằng đường dẫn đến ứng dụng của bạn
 done
 
