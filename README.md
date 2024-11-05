@@ -16,8 +16,11 @@
 }
 
 ## Guild to run app
-```bash
+``` bash
 chmod +x ./bin/appsmartpole_screen 
 ./bin/appsmartpole_screen ./config.json
+```
+
+
 
 
