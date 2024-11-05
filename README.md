@@ -1,5 +1,9 @@
 # qtApp
 ## OS ubuntu 24.04.01 LST
+```bash
+sudo apt install libxcb-cursor0 libxkbcommon-x11-0 libva-dev libva-drm2 libva-x11-2
+
+```
 ## Config file
 ```json
 {
