@@ -1,12 +1,13 @@
 {
     "api": "https://aeee-14-241-225-123.ngrok-free.app/get/linkm3u8",
+    "defaultLink": "",
     "bitrate": 9600,
     "broker": "io.adafruit.com",
     "id": 1,
     "mode": 0,
     "port": 1883,
     "pubTopic": "GutD/feeds/fan",
-    "stream_id": 1,
+    "stream_id": 2,
     "subTopic": "GutD/feeds/live-stream",
     "token": "",
     "user": "GutD"
